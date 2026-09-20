@@ -166,7 +166,7 @@ If you build a derivative, credit CyberMeow (see License).
 
 ## Acknowledgments
 
-Designed and built by **Amrio / CyberMeow**. Development done with help from
+Designed and built by **Elias / CyberMeow**. Development done with help from
 Claude (Anthropic) as a coding and design assistant.
 
 ---
