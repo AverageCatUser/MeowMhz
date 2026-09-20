@@ -186,3 +186,5 @@ capture or replay signals from **devices you own or have explicit permission to
 test**. This project is for security research, education, and testing your own
 equipment. Don't use it to interfere with, access, or disrupt anything that
 isn't yours. The authors take no responsibility for misuse.
+
+yes i used ai for this description and logo, claude was used in development of this project, mostly in fixing bugs, creating the analyze feature, and stablizing sub ghz replay, rest by me.
