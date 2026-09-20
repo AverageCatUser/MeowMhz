@@ -181,3 +181,5 @@ signals from **devices you own or have explicit permission to test**. This is fo
 learning, security research, and your own equipment — not for interfering with,
 accessing, or disrupting anything that isn't yours. The authors take no
 responsibility for misuse.
+
+yes i used ai for this readme and logo, claude was used in development of this project, mostly in fixing bugs, creating the analyze feature, and stablizing sub ghz replay, rest by me.
