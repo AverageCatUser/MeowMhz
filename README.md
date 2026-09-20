@@ -1,11 +1,12 @@
 # Meow MHz (MM) 🐱📡
+<img width="2816" height="1536" alt="Gemini_Generated_Image_gqk5jngqk5jngqk5" src="https://github.com/user-attachments/assets/fe39ab7a-925a-44f8-87ae-769506785f30" />
+
 
 **The sub-GHz tool you learn on.**
 A tiny, fully open, capture-and-replay device with a cat — built on a cheap
 ESP32-S3 for roughly **$12 in parts**, by [CyberMeow](https://github.com/).
 
 **Release 1.0** · [Changelog](CHANGELOG.md) · New to this? → **[QUICKSTART](QUICKSTART.md)**
-
 ---
 
 Most sub-GHz tools are built for people who already know RF. Meow MHz is built
