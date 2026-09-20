@@ -1,7 +1,7 @@
 # Meow MHz (MM) 🐱📡
 
 **A tiny, fully open, sub-GHz capture-and-replay tool with a cat.**
-Built on a cheap ESP32-S3 — roughly **$12 in parts** — by [CyberMeow](https://github.com/).
+Built on a cheap ESP32-S3 — roughly **$12 in parts** — by CyberMeow(me).
 
 Meow MHz captures OOK/ASK sub-GHz signals (the kind used by cheap remotes),
 shows you the actual waveform on a color screen, finds what frequency a signal
