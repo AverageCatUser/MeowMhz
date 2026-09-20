@@ -1,5 +1,8 @@
 # Meow MHz (MM) 🐱📡
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_gqk5jngqk5jngqk5" src="https://github.com/user-attachments/assets/f8142811-7005-410a-93ad-8e3aa2638902" />
+
+
 **A tiny, fully open, sub-GHz capture-and-replay tool with a cat.**
 Built on a cheap ESP32-S3 — roughly **$12 in parts** — by CyberMeow(me).
 
