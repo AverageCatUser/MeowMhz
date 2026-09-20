@@ -139,6 +139,10 @@ Full details and notes in **[docs/WIRING.md](docs/WIRING.md)**.
 
 ---
 
+Example Photo of Meow Mhz built
+<img width="3000" height="4000" alt="PXL_20260920_014743175" src="https://github.com/user-attachments/assets/c652754c-ddb7-4ee9-b19a-4c2346775d33" />
+
+
 ## Roadmap
 
 **Toward 1.0**
